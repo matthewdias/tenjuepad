@@ -5,6 +5,7 @@ low pro wireless numpad
 - designed with nice!nano in mind
 - battery headers
 - power switch
+- art by https://twitter.com/pokexe_art
 
 ![](mid.png)
 ![](top.png)
